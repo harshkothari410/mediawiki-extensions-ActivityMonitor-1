@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Harsh4101991"
+		]
+	},
+	"activitymonitor-desc": "{{desc|name=ActivityMonitor|url=https://www.mediawiki.org/wiki/Extension:ActivityMonitor}}",
+	"activitymonitor-specialpage-title": "Title for Special Page of ActivityMonitor"
+}

@@ -1,0 +1,19 @@
+/*!
+ * Stylesheet for ActivityMonitor Core
+ */
+
+#mw-activitymonitor-feed table {
+	margin: 1em;
+	padding: 0;
+	background: #f2f2f2;
+	border: 1px solid #aaa;
+}
+
+#mw-activitymonitor-feed table table {
+	margin: 0;
+}
+
+#mw-activitymonitor-feed td,
+#mw-activitymonitor-feed th {
+	text-align: left;
+}

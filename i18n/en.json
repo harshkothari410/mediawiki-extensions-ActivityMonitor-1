@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Harsh4101991",
+			"Krinkle"
+		]
+	},
+	"activitymonitor-desc": "Monitor recent changes in real time",
+	"activitymonitor-i18n-welcome": "Welcome to the localization file of the ActivityMonitor extension.",
+	"activitymonitor-specialpage-title": "ActivityMonitor"
+}
