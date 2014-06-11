@@ -6,6 +6,6 @@
 		]
 	},
 	"activitymonitor-desc": "Monitor recent changes in real time",
-	"activitymonitor-i18n-welcome": "Welcome to the localization file of the ActivityMonitor extension.",
-	"activitymonitor-specialpage-title": "ActivityMonitor"
+	"activitymonitor-specialpage-title": "ActivityMonitor",
+	"activitymonitor-configerror-msg": "This MediaWiki installation has not yet configured ActivityMonitor. Configure MediaWiki by adding RCStream URL in LocalSettings.php by using $wgActivityMonitorRCStreamUrl."
 }

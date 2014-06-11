@@ -7,7 +7,8 @@
 	var RC_NEW = 1;
 	var RC_LOG = 3;
 
-	var socket = io.connect('stream.wikimedia.org:80/rc');
+	var socketUrl = mw.config.get('wgActivityMonitorRCStreamUrl');
+	var socket = io.connect(socketUrl);
 
 	function printElement(element) {
 		$('#mw-activitymonitor-feed').prepend( element );
@@ -87,7 +88,7 @@
 
 	printPlainObj({
 		'event': 'connect',
-		'messsage': 'Connecting to stream.wikimedia.org...'
+		'messsage': 'Connecting to ' + socketUrl + '...'
 	});
 
 	socket.on('connect', function () {
