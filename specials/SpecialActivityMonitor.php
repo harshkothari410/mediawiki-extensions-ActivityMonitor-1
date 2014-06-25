@@ -20,7 +20,7 @@ class SpecialActivityMonitor extends SpecialPage {
 		global $wgActivityMonitorRCStreamUrl;
 		$out = $this->getOutput();
 
-		$out->setPageTitle( $this->msg( 'activitymonitor-specialpage-title' ) );
+		$out->setPageTitle( $this->msg( 'activitymonitor' ) );
 
 		if ( $wgActivityMonitorRCStreamUrl ) {
 			$out->addHtml( '<div id="mw-activitymonitor-feed"></div>' );

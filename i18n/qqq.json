@@ -5,5 +5,5 @@
 		]
 	},
 	"activitymonitor-desc": "{{desc|name=ActivityMonitor|url=https://www.mediawiki.org/wiki/Extension:ActivityMonitor}}",
-	"activitymonitor-specialpage-title": "Title for Special Page of ActivityMonitor"
+	"activitymonitor": "{{doc-special|ActivityMonitor}}"
 }

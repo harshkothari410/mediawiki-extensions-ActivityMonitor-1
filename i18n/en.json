@@ -6,6 +6,6 @@
 		]
 	},
 	"activitymonitor-desc": "Monitor recent changes in real time",
-	"activitymonitor-specialpage-title": "ActivityMonitor",
-	"activitymonitor-configerror-msg": "This wiki has not yet configured ActivityMonitor. Configure MediaWiki by adding RCStream URL in <code>LocalSettings.php</code> by using <code>$wgActivityMonitorRCStreamUrl.</code>"
+	"activitymonitor": "ActivityMonitor",
+	"activitymonitor-configerror-msg": "This wiki has not yet configured ActivityMonitor. Configure MediaWiki by adding RCStream URL in <code>LocalSettings.php</code> by using <code>$wgActivityMonitorRCStreamUrl</code>."
 }
