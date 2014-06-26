@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Gomoko"
+		]
+	},
+	"activitymonitor-desc": "Surveiller les modifications récentes en temps réel",
+	"activitymonitor": "ActivityMonitor",
+	"activitymonitor-configerror-msg": "Ce wiki n’a pas encore configuré ActivityMonitor. Configurez MédiaWiki en ajoutant l’URL RCStream dans <code>LocalSettings.php</code> en utilisant <code>$wgActivityMonitorRCStreamUrl.</code>"
+}

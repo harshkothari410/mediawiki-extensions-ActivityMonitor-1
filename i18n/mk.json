@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bjankuloski06"
+		]
+	},
+	"activitymonitor-desc": "Надзор врз скорешни промени во живо",
+	"activitymonitor": "Надзор врз активности",
+	"activitymonitor-configerror-msg": "Викиво сè уште нема наместено Надзор врз активности. Наместете го, ставајќи URL за RCStream во <code>LocalSettings.php</code> користејќи <code>$wgActivityMonitorRCStreamUrl.</code>"
+}

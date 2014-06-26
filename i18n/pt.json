@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Vitorvicentevalente"
+		]
+	},
+	"activitymonitor-desc": "Controla mudanças recentes em tempo real",
+	"activitymonitor": "Monitor de Atividade",
+	"activitymonitor-configerror-msg": "Esta wiki não configurou o Monitor de Atividade ainda. Configure o MediaWiki ao adicionar a ligação RCStream no ficheiro <code>LocalSettings.php</code>, utilizando o código <code>$wgActivityMonitorRCStreamUrl.</code>"
+}

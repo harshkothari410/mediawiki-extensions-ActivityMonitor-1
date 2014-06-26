@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Harsh4101991"
+			"Harsh4101991",
+			"Raymond"
 		]
 	},
 	"activitymonitor-desc": "{{desc|name=ActivityMonitor|url=https://www.mediawiki.org/wiki/Extension:ActivityMonitor}}",

@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Metalhead64"
+		]
+	},
+	"activitymonitor-desc": "Ermöglicht die Überwachung der „Letzten Änderungen“ in Echtzeit",
+	"activitymonitor": "Aktivitätsüberwachung",
+	"activitymonitor-configerror-msg": "Dieses Wiki hat noch nicht die Aktivitätsüberwachung konfiguriert. Konfiguriere MediaWiki durch das Hinzufügen der RCStream-URL in der Datei <code>LocalSettings.php</code> durch Verwendung von <code>$wgActivityMonitorRCStreamUrl</code>."
+}
