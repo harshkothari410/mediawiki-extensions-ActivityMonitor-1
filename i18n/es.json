@@ -4,5 +4,6 @@
 			"Macofe"
 		]
 	},
-	"activitymonitor-desc": "Monitorear cambios recientes en tiempo real"
+	"activitymonitor-desc": "Monitorear cambios recientes en tiempo real",
+	"activitymonitor": "ActivityMonitor"
 }

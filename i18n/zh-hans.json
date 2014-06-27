@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Cwek"
+		]
+	},
+	"activitymonitor-desc": "最近更新实时监视器",
+	"activitymonitor": "活动监视器",
+	"activitymonitor-configerror-msg": "这个wiki还没配置好活动监视器，请在<code>LocalSettings.php</code>添加最近更新流的URL作为<code>$wgActivityMonitorRCStreamUrl</code>以配置好MediaWiki。"
+}
