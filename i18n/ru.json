@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Okras"
+		]
+	},
+	"activitymonitor-desc": "Отслеживать последние изменения в режиме реального времени",
+	"activitymonitor": "ActivityMonitor",
+	"activitymonitor-configerror-msg": "На этом вики-проекте ещё не настроен ActivityMonitor. Настройте MediaWiki, добавив URL-адрес RCStream в <code>LocalSettings.php</code>, использовав <code>$wgActivityMonitorRCStreamUrl</code>."
+}

@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Lokal Profil"
+		]
+	},
+	"activitymonitor-desc": "Bevaka de senaste ändringarna i realtid",
+	"activitymonitor": "ActivityMonitor",
+	"activitymonitor-configerror-msg": "Denna wiki har ännu inte konfigurerat ActivityMonitor. Konfigurera MediaWiki genom att lägga till RCStream-url:en i <code>LocalSettings.php</code> genom att använda <code>$wgActivityMonitorRCStreamUrl</code>."
+}
