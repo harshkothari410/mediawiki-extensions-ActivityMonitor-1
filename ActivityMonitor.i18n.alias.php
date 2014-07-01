@@ -23,3 +23,8 @@ $specialPageAliases['de'] = array(
 $specialPageAliases['zh-hans'] = array(
 	'ActivityMonitor' => array( '活跃监视器' ),
 );
+
+/** Traditional Chinese (中文（繁體）‎) */
+$specialPageAliases['zh-hant'] = array(
+	'ActivityMonitor' => array( '活躍檢視器' ),
+);
