@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Macofe"
+			"Macofe",
+			"Fitoschido"
 		]
 	},
 	"activitymonitor-desc": "Monitorear cambios recientes en tiempo real",
-	"activitymonitor": "ActivityMonitor"
+	"activitymonitor": "ActivityMonitor",
+	"activitymonitor-configerror-msg": "Aún no se configuró ActivityMonitor en este wiki. Añade un URL de RCStream en <code>LocalSettings.php</code> usando <code>$wgActivityMonitorRCStreamUrl</code>."
 }

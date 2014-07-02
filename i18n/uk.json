@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ата"
+		]
+	},
+	"activitymonitor-desc": "Стежити за останніми змінами в реальному часі",
+	"activitymonitor": "ActivityMonitor",
+	"activitymonitor-configerror-msg": "У цій вікі ActivityMonitor ще не налаштований. Налаштуйте MediaWiki, додавши URL-адресу RCStream у <code>LocalSettings.php</code>, використавши <code>$wgActivityMonitorRCStreamUrl</code>."
+}
