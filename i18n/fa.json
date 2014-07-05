@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Rtemis"
+		]
+	},
+	"activitymonitor-desc": "آخرین تغییرات را فورا نمایش بده",
+	"activitymonitor": "نمایشگر فعالیت‌ها",
+	"activitymonitor-configerror-msg": "فعلا در این ویکی ابزار نمایشگر فعالیت تعبیه نشده است. با افزودن نRCStreamUrl به کد خود <code>LocalSettings.php</code> به صورت <code>$wgActivityMonitorRCStreamUrl</code> آن را تنظیم نمایید."
+}
