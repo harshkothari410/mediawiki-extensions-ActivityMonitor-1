@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Arifin.wijaya"
+		]
+	},
+	"activitymonitor-desc": "Pantau perubahan terbaru secara real time",
+	"activitymonitor": "PemantauAktivitas",
+	"activitymonitor-configerror-msg": "Wiki ini belum dikonfigurasi PemantauAktivitas. Konfigurasi MediaWiki dengan menambahkan RCStream URL di <code>LocalSettings.php</code> dengan menggunakan <code>$wgActivityMonitorRCStreamUrl</code>."
+}
