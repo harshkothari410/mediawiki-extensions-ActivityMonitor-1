@@ -14,6 +14,16 @@ $specialPageAliases['en'] = array(
 	'ActivityMonitor' => array( 'ActivityMonitor' ),
 );
 
+/** Arabic (العربية) */
+$specialPageAliases['ar'] = array(
+	'ActivityMonitor' => array( 'عرض_النشاط' ),
+);
+
+/** Egyptian Spoken Arabic (مصرى) */
+$specialPageAliases['arz'] = array(
+	'ActivityMonitor' => array( 'مراقبه_النشاط' ),
+);
+
 /** German (Deutsch) */
 $specialPageAliases['de'] = array(
 	'ActivityMonitor' => array( 'Aktivitätsüberwachung' ),
