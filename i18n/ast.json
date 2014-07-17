@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Xuacu"
+		]
+	},
+	"activitymonitor-desc": "Vixilar los cambios recientes en tiempu real",
+	"activitymonitor": "Monitor d'actividá",
+	"activitymonitor-configerror-msg": "Esta wiki inda nun tien configuráu el monitor d'actividá. Configura MediaWiki amestando la URL de RCStream en <code>LocalSettings.php</code> utilizando <code>$wgActivityMonitorRCStreamUrl</code>."
+}
