@@ -34,6 +34,11 @@ $specialPageAliases['he'] = array(
 	'ActivityMonitor' => array( 'מוניטור_פעילות' ),
 );
 
+/** Korean (한국어) */
+$specialPageAliases['ko'] = array(
+	'ActivityMonitor' => array( '활동모니터' ),
+);
+
 /** Macedonian (македонски) */
 $specialPageAliases['mk'] = array(
 	'ActivityMonitor' => array( 'НадзорНаАктивности' ),
