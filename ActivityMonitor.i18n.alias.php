@@ -39,9 +39,19 @@ $specialPageAliases['ko'] = array(
 	'ActivityMonitor' => array( '활동모니터' ),
 );
 
+/** Luxembourgish (Lëtzebuergesch) */
+$specialPageAliases['lb'] = array(
+	'ActivityMonitor' => array( 'Aktivitéitsiwwerwaachung' ),
+);
+
 /** Macedonian (македонски) */
 $specialPageAliases['mk'] = array(
 	'ActivityMonitor' => array( 'НадзорНаАктивности' ),
+);
+
+/** Punjabi (ਪੰਜਾਬੀ) */
+$specialPageAliases['pa'] = array(
+	'ActivityMonitor' => array( 'ਸਰਗਰਮੀ_ਨਿਗਰਾਨ' ),
 );
 
 /** Simplified Chinese (中文（简体）‎) */
