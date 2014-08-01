@@ -49,6 +49,11 @@ $specialPageAliases['mk'] = array(
 	'ActivityMonitor' => array( 'НадзорНаАктивности' ),
 );
 
+/** Malayalam (മലയാളം) */
+$specialPageAliases['ml'] = array(
+	'ActivityMonitor' => array( 'പ്രവൃത്തിനിരീക്ഷണോപാധി' ),
+);
+
 /** Punjabi (ਪੰਜਾਬੀ) */
 $specialPageAliases['pa'] = array(
 	'ActivityMonitor' => array( 'ਸਰਗਰਮੀ_ਨਿਗਰਾਨ' ),
