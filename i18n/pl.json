@@ -4,5 +4,7 @@
 			"Chrumps"
 		]
 	},
-	"activitymonitor-desc": "Śledzenie ostatnich zmian w czasie rzeczywistym"
+	"activitymonitor-desc": "Śledzenie ostatnich zmian w czasie rzeczywistym",
+	"activitymonitor": "Monitor aktywności",
+	"activitymonitor-configerror-msg": "W tej wiki monitor aktywności nie został jeszcze skonfigurowany. Skonfiguruj MediaWiki, dodając URL RCStream w <code>LocalSettings.php</code>, używając <code>$wgActivityMonitorRCStreamUrl</code>."
 }

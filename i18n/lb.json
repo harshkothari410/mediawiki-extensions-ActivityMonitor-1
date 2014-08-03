@@ -5,5 +5,6 @@
 		]
 	},
 	"activitymonitor-desc": "Rezent Ännerunge live iwwerwaachen",
-	"activitymonitor": "Iwwerwaachung vun der Aktivitéit"
+	"activitymonitor": "Iwwerwaachung vun der Aktivitéit",
+	"activitymonitor-configerror-msg": "Fir dës Wiki ass den 'ActivityMonitor' nach net agestallt. KOnfiguréiert MediaWiki duerch derbäisetze vun RCStream URL in <code>LocalSettings.php</code> duerch d'Benotze vu(n) <code>$wgActivityMonitorRCStreamUrl</code>."
 }
