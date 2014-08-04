@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"S8321414"
+			"S8321414",
+			"Cwlin0416"
 		]
 	},
 	"activitymonitor-desc": "即時監控最近的變更",
-	"activitymonitor": "活動監視器"
+	"activitymonitor": "活動監視器",
+	"activitymonitor-configerror-msg": "此 Wiki 尚未設定 ActivityMonitor。請於 MediaWiki 的 <code>LocalSettings.php</code> 中使用 <code>$wgActivityMonitorRCStreamUrl</code> 設定 RCStream URL。"
 }
