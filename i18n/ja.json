@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Takot"
+		]
+	},
+	"activitymonitor-desc": "最近の変更をリアルタイムでモニターする",
+	"activitymonitor-configerror-msg": "この wiki は、ActivityMonitor をまだ設定していません。<code>LocalSettings.php</code> 内に<code>$wgActivityMonitorRCStreamUrl</code>で RCStream の URL を追加し、 MediaWiki の設定を変更してください。"
+}
