@@ -66,5 +66,5 @@ $specialPageAliases['zh-hans'] = array(
 
 /** Traditional Chinese (中文（繁體）‎) */
 $specialPageAliases['zh-hant'] = array(
-	'ActivityMonitor' => array( '活躍檢視器' ),
+	'ActivityMonitor' => array( '活動監視器' ),
 );
