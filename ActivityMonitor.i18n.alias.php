@@ -29,6 +29,11 @@ $specialPageAliases['de'] = array(
 	'ActivityMonitor' => array( 'Aktivitätsüberwachung' ),
 );
 
+/** Persian (فارسی) */
+$specialPageAliases['fa'] = array(
+	'ActivityMonitor' => array( 'دیده‌بانی_فعالیت' ),
+);
+
 /** Hebrew (עברית) */
 $specialPageAliases['he'] = array(
 	'ActivityMonitor' => array( 'מוניטור_פעילות' ),
