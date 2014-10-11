@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Sudo77(new)"
+		]
+	},
+	"activitymonitor-desc": "Sledovanie posledných úprav v reálnom čase",
+	"activitymonitor": "ActivityMonitor",
+	"activitymonitor-configerror-msg": "Táto wiki ešte nemá nakonfigurovaný ActivityMonitor. Konfigurujte MediaWiki pridaním RCStream URL do <code>LocalSettings.php</code> pomocou <code>$wgActivityMonitorRCStreamUrl</code>."
+}
