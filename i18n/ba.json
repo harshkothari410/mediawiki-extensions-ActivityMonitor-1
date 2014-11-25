@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Рустам Нурыев"
+		]
+	},
+	"activitymonitor-desc": "Һуңғы үҙгәртеүҙәрҙе ағымдағы ваҡытта күҙәтеп барырға",
+	"activitymonitor": "ӘүҙемМонитор",
+	"activitymonitor-configerror-msg": "Был вики-проектта ӘүҙемМонитор көйләнмәгән. <code>$wgActivityMonitorRCStreamUrl</code> ҡулланып,         <code>LocalSettings.php</code>-ҡа URL-адрес RCStream өҫтәп, MediaWiki көйләгеҙ."
+}
