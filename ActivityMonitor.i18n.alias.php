@@ -59,6 +59,11 @@ $specialPageAliases['ml'] = array(
 	'ActivityMonitor' => array( 'പ്രവൃത്തിനിരീക്ഷണോപാധി' ),
 );
 
+/** Dutch (Nederlands) */
+$specialPageAliases['nl'] = array(
+	'ActivityMonitor' => array( 'Activiteitenweergave' ),
+);
+
 /** Punjabi (ਪੰਜਾਬੀ) */
 $specialPageAliases['pa'] = array(
 	'ActivityMonitor' => array( 'ਸਰਗਰਮੀ_ਨਿਗਰਾਨ' ),
