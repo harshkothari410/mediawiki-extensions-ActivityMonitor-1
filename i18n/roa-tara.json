@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Joetaras"
+		]
+	},
+	"activitymonitor-desc": "Condrolle le urteme cangiaminde in tiembe reale",
+	"activitymonitor": "ActivityMonitor",
+	"activitymonitor-configerror-msg": "Sta uicchi non ge tène configurate ActivityMonitor. Configure MediaUicchi aggiungenne l'URL RCStream  jndr'à <code>LocalSettings.php</code> ausanne <code>$wgActivityMonitorRCStreamUrl</code>."
+}
