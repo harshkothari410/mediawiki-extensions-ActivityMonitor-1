@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Dinhxuanduyet"
+		]
+	},
+	"activitymonitor-desc": "Giám sát những thay đổi gần đây theo thời gian thực",
+	"activitymonitor": "Giám sát hoạt động",
+	"activitymonitor-configerror-msg": "Wiki này chưa được cấu hình Giám sát Hoạt động. Hãy cấu hình MediaWiki bằng cách thêm URL RCStream trong <code>LocalSettings.php</code> bằng cahs sử dụng <code>$wgActivityMonitorRCStreamUrl</code>."
+}
