@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Purodha"
+		]
+	},
+	"activitymonitor-desc": "De {{lcfirst:{{int:recentchanges}}}} en Aäsch_Zigg metlohre.",
+	"activitymonitor": "Aäsch_Zigg_Metlohre",
+	"activitymonitor-configerror-msg": "Heh dat Wikki hät et Aäsch_Zigg_Metlohre noch nit fähdesch ennjeschtallt.\nDonn dat, endämm dat De dä <i lang=\"en\" xml:lang=\"en\" dir=\"ltr\" title=\"Uniform Ressource Locator\">URL</i> för dä Kannahl för de {{lcfirst:{{int:recentchanges}}}} en dä Dattei <code lang=\"en\" xml:lang=\"en\" dir=\"ltr\">LocalSettings.php</code> met <code lang=\"en\" xml:lang=\"en\" dir=\"ltr\">$wgActivityMonitorRCStreamUrl</code>."
+}
