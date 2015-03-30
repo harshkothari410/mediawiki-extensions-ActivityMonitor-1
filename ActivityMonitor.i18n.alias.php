@@ -69,6 +69,11 @@ $specialPageAliases['pa'] = array(
 	'ActivityMonitor' => array( 'ਸਰਗਰਮੀ_ਨਿਗਰਾਨ' ),
 );
 
+/** Brazilian Portuguese (português do Brasil) */
+$specialPageAliases['pt-br'] = array(
+	'ActivityMonitor' => array( 'Monitor_de_atividade' ),
+);
+
 /** Vietnamese (Tiếng Việt) */
 $specialPageAliases['vi'] = array(
 	'ActivityMonitor' => array( 'Giám_sát_hoạt_động' ),
