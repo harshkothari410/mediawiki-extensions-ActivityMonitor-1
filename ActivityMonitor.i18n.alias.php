@@ -49,6 +49,11 @@ $specialPageAliases['lb'] = array(
 	'ActivityMonitor' => array( 'Aktivitéitsiwwerwaachung' ),
 );
 
+/** لوری (لوری) */
+$specialPageAliases['lrc'] = array(
+	'ActivityMonitor' => array( 'تیه_واداشت_کنشتکاریا' ),
+);
+
 /** Macedonian (македонски) */
 $specialPageAliases['mk'] = array(
 	'ActivityMonitor' => array( 'НадзорНаАктивности' ),
