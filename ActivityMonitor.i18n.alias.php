@@ -24,6 +24,11 @@ $specialPageAliases['arz'] = array(
 	'ActivityMonitor' => array( 'مراقبه_النشاط' ),
 );
 
+/** Western Balochi (بلوچی رخشانی) */
+$specialPageAliases['bgn'] = array(
+	'ActivityMonitor' => array( 'پئالیتی_نازیر_بوتین' ),
+);
+
 /** German (Deutsch) */
 $specialPageAliases['de'] = array(
 	'ActivityMonitor' => array( 'Aktivitätsüberwachung' ),
