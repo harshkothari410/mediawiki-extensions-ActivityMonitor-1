@@ -29,6 +29,11 @@ $specialPageAliases['bgn'] = array(
 	'ActivityMonitor' => array( 'پئالیتی_نازیر_بوتین' ),
 );
 
+/** Czech (čeština) */
+$specialPageAliases['cs'] = array(
+	'ActivityMonitor' => array( 'Sledování_aktivity', 'Sledovani_aktivity' ),
+);
+
 /** German (Deutsch) */
 $specialPageAliases['de'] = array(
 	'ActivityMonitor' => array( 'Aktivitätsüberwachung' ),
