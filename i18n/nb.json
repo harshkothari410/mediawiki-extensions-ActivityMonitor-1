@@ -4,5 +4,7 @@
 			"Chameleon222"
 		]
 	},
-	"activitymonitor-desc": "Overvåk siste endringer i sanntid"
+	"activitymonitor-desc": "Overvåk siste endringer i sanntid",
+	"activitymonitor": "Aktivitetsovervåker",
+	"activitymonitor-configerror-msg": "Denne wikien har ikke konfigurert aktivitetsovervåkeren ennå. Konfigurer MediaWiki ved å legge til RCStream-URLen i <code>LocalSettings.php</code> ved å bruke <code>$wgActivityMonitorRCStreamUrl</code>."
 }
