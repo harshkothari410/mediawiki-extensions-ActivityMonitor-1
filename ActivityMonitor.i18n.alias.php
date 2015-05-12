@@ -19,7 +19,7 @@ $specialPageAliases['ar'] = array(
 	'ActivityMonitor' => array( 'عرض_النشاط' ),
 );
 
-/** Egyptian Spoken Arabic (مصرى) */
+/** Egyptian Arabic (مصرى) */
 $specialPageAliases['arz'] = array(
 	'ActivityMonitor' => array( 'مراقبه_النشاط' ),
 );
@@ -59,7 +59,7 @@ $specialPageAliases['lb'] = array(
 	'ActivityMonitor' => array( 'Aktivitéitsiwwerwaachung' ),
 );
 
-/** لوری (لوری) */
+/** لوری مینجایی (لوری مینجایی) */
 $specialPageAliases['lrc'] = array(
 	'ActivityMonitor' => array( 'تیه_واداشت_کنشتکاریا' ),
 );
