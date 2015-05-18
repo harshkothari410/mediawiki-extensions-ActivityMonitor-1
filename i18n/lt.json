@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Tomasdd"
+			"Tomasdd",
+			"Eitvys200"
 		]
 	},
 	"activitymonitor-desc": "Stebėti naujausius pakeitimus realiu laiku",
-	"activitymonitor": "ActivityMonitor"
+	"activitymonitor": "ActivityMonitor",
+	"activitymonitor-configerror-msg": "Ši viki dar nesukonfigūravo ActivityMonitor. Konfigūruokite MediaWiki pridedant RCStream URL į <code>LocalSettings.php</code> naudojant <code>$wgActivityMonitorRCStreamUrl</code>."
 }
