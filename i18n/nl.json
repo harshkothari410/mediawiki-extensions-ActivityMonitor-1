@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Sjoerddebruin"
+			"Sjoerddebruin",
+			"Esketti"
 		]
 	},
 	"activitymonitor-desc": "Recente wijzigingen in real time weergeven",
-	"activitymonitor": "ActivityMonitor"
+	"activitymonitor": "ActivityMonitor",
+	"activitymonitor-configerror-msg": "Deze wiki is nog niet geconfigureerd ActivityMonitor. Configureren van MediaWiki door het toevoegen van de URL in RCStream <code>LocalSettings.php</code> door het gebruik van <code>$wgActivityMonitorRCStreamUrl</code>."
 }
