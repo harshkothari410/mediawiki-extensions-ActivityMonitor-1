@@ -59,7 +59,7 @@ $specialPageAliases['lb'] = array(
 	'ActivityMonitor' => array( 'Aktivitéitsiwwerwaachung' ),
 );
 
-/** Northern Luri (لوری مینجایی) */
+/** Northern Luri (لۊری شومالی) */
 $specialPageAliases['lrc'] = array(
 	'ActivityMonitor' => array( 'تیە_ڤاداشت_کونئشتکاریا' ),
 );
