@@ -33,4 +33,8 @@ class SpecialActivityMonitor extends SpecialPage {
 			$out->addHtml( $this->msg( 'activitymonitor-configerror-msg' ) );
 		}
 	}
+
+	protected function getGroupName() {
+		return 'other';
+	}
 }

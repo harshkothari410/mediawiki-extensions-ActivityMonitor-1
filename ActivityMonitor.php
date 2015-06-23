@@ -31,7 +31,6 @@ $wgExtensionMessagesFiles['ActivityMonitorAlias'] = __DIR__ . '/ActivityMonitor.
 
 // Register special pages
 $wgSpecialPages['ActivityMonitor'] = 'SpecialActivityMonitor';
-$wgSpecialPageGroups['ActivityMonitor'] = 'other';
 
 // Options : RCStream URL
 $wgActivityMonitorRCStreamUrl = null;
