@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"C.R."
+		]
+	},
+	"activitymonitor-desc": "Cuntrolla ll'urdeme cagnamiente 'n tiempo riale",
+	"activitymonitor": "ActivityMonitor",
+	"activitymonitor-configerror-msg": "Sta wiki nun tene ancora configurato ll'ActivityMonitor. Cunfigurate MediaWiki azzeccanno l'URL RCStream  int' 'e <code>LocalSettings.php</code> ausanno <code>$wgActivityMonitorRCStreamUrl</code>."
+}

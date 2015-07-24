@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Srdjan m"
+		]
+	},
+	"activitymonitor-desc": "Praćenje nedavnih izmena u stvarnom vremenu",
+	"activitymonitor": "ActivityMonitor",
+	"activitymonitor-configerror-msg": "Ovaj wiki još nije postavio ActivityMonitor. Postavi MediaWiki dodavši URL za RCStream u <code>LocalSettings.php</code> koristeći se kôdom <code>$wgActivityMonitorRCStreamUrl</code>."
+}
