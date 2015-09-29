@@ -15,7 +15,7 @@ $wgExtensionCredits['specialpage'][] = array(
 		'Harsh Kothari',
 		'Timo Tijhof',
 	),
-	'version'  => '0.1.0',
+	'version' => '0.1.0',
 	'url' => 'https://www.mediawiki.org/wiki/Extension:ActivityMonitor',
 	'descriptionmsg' => 'activitymonitor-desc',
 	'license-name' => 'MIT',

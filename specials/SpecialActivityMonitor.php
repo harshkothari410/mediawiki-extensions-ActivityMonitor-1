@@ -1,11 +1,11 @@
 <?php
+
 /**
  * SpecialPage for ActivityMonitor extension
  *
  * @file
  * @ingroup Extensions
  */
-
 class SpecialActivityMonitor extends SpecialPage {
 	public function __construct() {
 		parent::__construct( 'ActivityMonitor' );
@@ -13,7 +13,7 @@ class SpecialActivityMonitor extends SpecialPage {
 
 	/**
 	 * Shows the page to the user.
-	 * @param string $sub: The subpage string argument (if any).
+	 * @param string $sub The subpage string argument (if any).
 	 *  [[Special:ActivityMonitor/subpage]].
 	 */
 	public function execute( $sub ) {
@@ -28,8 +28,7 @@ class SpecialActivityMonitor extends SpecialPage {
 			$out->addJsConfigVars( 'wgActivityMonitorRCStreamUrl', $wgActivityMonitorRCStreamUrl );
 
 			$out->addModules( array( 'ext.ActivityMonitor.core' ) );
-		}
-		else{
+		} else {
 			$out->addHtml( $this->msg( 'activitymonitor-configerror-msg' ) );
 		}
 	}
