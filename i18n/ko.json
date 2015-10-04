@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Kwj2772"
+			"Kwj2772",
+			"Hwangjy9"
 		]
 	},
-	"activitymonitor-desc": "최근 바뀜을 실시간으로 확인합니다"
+	"activitymonitor-desc": "최근 바뀜을 실시간으로 확인합니다",
+	"activitymonitor": "ActivityMonitor"
 }
